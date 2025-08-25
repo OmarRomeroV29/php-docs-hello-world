@@ -90,7 +90,7 @@
     </nav>
     <main class="page">
         <div class="img-responsive">
-            <img src="cbtis191.jpg" alt="logo">
+            <img src="cbtis191.jpg" class="img-responsive" alt="logo">
         </div>
         <div class="carousel-caption d-none d-md-block">
             <h5>...</h5>
