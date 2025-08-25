@@ -64,7 +64,7 @@
                             <li><a href="#">Info</a></li>
                             <li class="divider"></li>
                         </ul>
-                    </li> 
+                    </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Alumnos <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
@@ -73,7 +73,7 @@
                             <li><a href="#">Calendario escolar</a></li>
                             <li class="divider"></li>
                         </ul>
-                    </li> 
+                    </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Docentes <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
@@ -89,6 +89,13 @@
         </div>
     </nav>
     <main class="page">
+        <div class="carousel-item">
+            <img src="..." alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>...</h5>
+                <p>...</p>
+            </div>
+        </div>
         <div class="container">...</div>
         <?php
 
