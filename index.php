@@ -90,7 +90,7 @@
     </nav>
     <main class="page">
         <div class="carousel-item">
-            <img src="..." alt="...">
+            <img src="cbtis191.jpg" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <h5>...</h5>
                 <p>...</p>
