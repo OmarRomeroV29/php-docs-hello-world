@@ -32,21 +32,42 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/">Semarnat</a>
+                <a class="navbar-brand" href="/">CBTIS 191</a>
             </div>
             <div class="collapse navbar-collapse" id="subenlaces">
                 <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Institución <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#">Aspirantes</a></li>
+                            <li class="divider"></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Noticias <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#">Aspirantes</a></li>
+                            <li class="divider"></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Desplegable <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#">Aspirantes</a></li>
+                            <li class="divider"></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">a</a></li>
+                    <li><a href="#">b</a></li>
                     <li><a href="#">Enlace</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Desplegable <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Acción</a></li>
-                            <li><a href="#">Otra acción</a></li>
-                            <li><a href="#">Algo más aquí</a></li>
+                            <li><a href="#">Aspirantes</a></li>
                             <li class="divider"></li>
-                            <li><a href="#">Enlace separado</a></li>
                         </ul>
                     </li>
+                    <li><a href="#">Acceso a la plataforma</a></li>
                 </ul>
             </div>
         </div>
