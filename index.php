@@ -22,6 +22,7 @@
 </head>
 
 <body>
+    <!-- Contenido -->
     <nav class="navbar navbar-inverse sub-navbar navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -50,7 +51,6 @@
             </div>
         </div>
     </nav>
-    <!-- Contenido -->
     <main class="page">
         <div class="container">...</div>
         <?php
