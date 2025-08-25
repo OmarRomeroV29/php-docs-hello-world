@@ -39,35 +39,51 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Institución <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Aspirantes</a></li>
+                            <li><a href="#">Misión, visión y objetivos</a></li>
+                            <li><a href="#">Historia</a></li>
+                            <li><a href="#">Organigrama</a></li>
+                            <li><a href="#">Instalaciones</a></li>
+                            <li><a href="#">Directorio</a></li>
                             <li class="divider"></li>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Noticias <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Aspirantes</a></li>
+                            <li><a href="#">Eventos</a></li>
+                            <li><a href="#">Avisos</a></li>
+                            <li><a href="#">Convocatorias</a></li>
                             <li class="divider"></li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Desplegable <span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Aspirantes <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Aspirantes</a></li>
+                            <li><a href="#">Oferta educativa</a></li>
+                            <li><a href="#">Admisiones</a></li>
+                            <li><a href="#">Info</a></li>
                             <li class="divider"></li>
                         </ul>
-                    </li>
-                    <li><a href="#">a</a></li>
-                    <li><a href="#">b</a></li>
-                    <li><a href="#">Enlace</a></li>
+                    </li> 
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Desplegable <span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Alumnos <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Aspirantes</a></li>
+                            <li><a href="#">Servicios</a></li>
+                            <li><a href="#">Horarios</a></li>
+                            <li><a href="#">Calendario escolar</a></li>
+                            <li class="divider"></li>
+                        </ul>
+                    </li> 
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Docentes <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#">Portal de autoservicios</a></li>
+                            <li><a href="#">SISEMS</a></li>
+                            <li><a href="#">Normatividad</a></li>
                             <li class="divider"></li>
                         </ul>
                     </li>
-                    <li><a href="#">Acceso a la plataforma</a></li>
+                    <li><a href="#">Acceso en línea</a></li>
                 </ul>
             </div>
         </div>
